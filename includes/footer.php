@@ -1,0 +1,10 @@
+  <script src="assets/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/swiper-bundle.min.js"></script>
+  <script src="assets/js/custom-swiper.js"></script>
+  <script src="assets/js/feather.min.js"></script>
+  <script src="assets/js/custom-feather.js"></script>
+  <script src="assets/js/iconsax.js"></script>
+  <script src="assets/js/script.js"></script>
+</body>
+
+</html>
